@@ -2,7 +2,7 @@
 #include <ctime>
 using namespace std;
 
-
+//Test
 
 //"CLEAR SCREEN": pushes out old text by looping endline ( DEFAULT = 20 lines ) 
 /* 
